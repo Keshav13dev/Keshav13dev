@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=USER@KESHAV:~$+sudo+init+profile;INITIALIZING+SYSTEM...;LOADING+MODULES:+PYTHON,+NETWORKING,+AI" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=USER@KESHAV:~$+sudo+init+profile;INITIALIZING+SYSTEM...;LOADING+MODULES:+PYTHON,+NETWORKING,+AI" alt="Terminal Header" />
 </div>
 
 <div align="center" style="background-color:#0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
