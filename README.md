@@ -19,5 +19,5 @@
 </pre>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,java,cpp,react,nextjs,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,java,c,react,nextjs,git,docker&theme=dark" />
 </div>
