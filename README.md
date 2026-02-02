@@ -8,7 +8,7 @@
 <span style="color: #7ee787;">user@github:~$</span> ./display-bio.sh
 > <span style="color: #8b949e;"># STATUS: ONLINE</span>
 > <span style="color: #8b949e;"># ROLE: Student / Developer</span>
-> Loading interest_vectors... [AI, WebApps, NetSec]
+> Loading interest_vectors... [Quantum Computing, WebApps, AI]
 > 100% Complete.
 
 <span style="color: #7ee787;">user@github:~$</span> cat current_projects.txt
