@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=USER@LOCALHOST:~$+sudo+init+profile;INITIALIZING+SYSTEM...;LOADING+MODULES:+PYTHON,+NETWORKING,+AI" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=USER@KESHAV:~$+sudo+init+profile;INITIALIZING+SYSTEM...;LOADING+MODULES:+PYTHON,+NETWORKING,+AI" alt="Terminal Header" />
 </div>
 
 <div align="center" style="background-color:#0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
@@ -12,8 +12,7 @@
 > 100% Complete.
 
 <span style="color: #7ee787;">user@github:~$</span> cat current_projects.txt
-> 01. <b>TravelX</b> [AI-Powered Trip Planner] - <i>Active</i>
-> 02. <b>Eco-Verify</b> [FinTech SaaS] - <i>Imagine Cup</i>
+> 01. <b>Signalist</b> [AI-Powered Trip Planner] - <i>Active</i>
 > 03. <b>Open Source</b> [Contributing to AI Governance]
 
 <span style="color: #7ee787;">user@github:~$</span> check_arsenal --verbose
