@@ -12,24 +12,12 @@
 > 100% Complete.
 
 <span style="color: #7ee787;">user@github:~$</span> cat current_projects.txt
-> 01. <b>Signalist</b> [AI-Powered Trip Planner] - <i>Active</i>
-> 03. <b>Open Source</b> [Contributing to AI Governance]
+> 01. <b>Signalist</b> [AI-Powered stock Analyser] - <i>Active</i>
+> 02. <b>Open Source</b>
 
 <span style="color: #7ee787;">user@github:~$</span> check_arsenal --verbose
 </pre>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,react,nextjs,git,docker&theme=dark" />
-</div>
-
-<pre align="left" style="font-family: 'Courier New', Courier, monospace; color: #c9d1d9;">
-<span style="color: #7ee787;">user@github:~$</span> ping -c 1 social_media
-> 64 bytes from <a href="https://linkedin.com/in/yourid">LinkedIn</a>: icmp_seq=1 ttl=54 time=24.3 ms
-> 64 bytes from <a href="https://twitter.com/yourid">Twitter</a>: icmp_seq=1 ttl=54 time=12.1 ms
-</pre>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" />
 </div>
