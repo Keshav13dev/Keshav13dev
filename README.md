@@ -5,13 +5,13 @@
 <div align="center" style="background-color:#0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
 <pre align="left" style="font-family: 'Courier New', Courier, monospace; color: #c9d1d9;">
-<span style="color: #7ee787;">user@github:~$</span> ./display-bio.sh
+<span style="color: #7ee787;">user@keshav:~$</span> ./display-bio.sh
 > <span style="color: #8b949e;"># STATUS: ONLINE</span>
 > <span style="color: #8b949e;"># ROLE: Student / Developer</span>
 > Loading interest_vectors... [Quantum Computing, WebApps, AI]
 > 100% Complete.
 
-<span style="color: #7ee787;">user@github:~$</span> cat current_projects.txt
+<span style="color: #7ee787;">user@keshav:~$</span> cat current_projects.txt
 > 01. <b>Signalist</b> [AI-Powered stock Analyser] - <i>Active</i>
 > 02. <b>Open Source</b>
 
