@@ -15,7 +15,7 @@
 > 01. <b>Signalist</b> [AI-Powered stock Analyser] - <i>Active</i>
 > 02. <b>Open Source</b>
 
-<span style="color: #7ee787;">user@github:~$</span> check_arsenal --verbose
+<span style="color: #7ee787;">user@github:~$</span> check_system --data
 </pre>
 
 <div align="left">
