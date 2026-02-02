@@ -1,65 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+user;Building+Digital+Experiences;Turning+Coffee+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=USER@LOCALHOST:~$+sudo+init+profile;INITIALIZING+SYSTEM...;LOADING+MODULES:+PYTHON,+NETWORKING,+AI" alt="Terminal Header" />
+</div>
+
+<div align="center" style="background-color:#0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+
+<pre align="left" style="font-family: 'Courier New', Courier, monospace; color: #c9d1d9;">
+<span style="color: #7ee787;">user@github:~$</span> ./display-bio.sh
+> <span style="color: #8b949e;"># STATUS: ONLINE</span>
+> <span style="color: #8b949e;"># ROLE: Student / Developer</span>
+> Loading interest_vectors... [AI, WebApps, NetSec]
+> 100% Complete.
+
+<span style="color: #7ee787;">user@github:~$</span> cat current_projects.txt
+> 01. <b>TravelX</b> [AI-Powered Trip Planner] - <i>Active</i>
+> 02. <b>Eco-Verify</b> [FinTech SaaS] - <i>Imagine Cup</i>
+> 03. <b>Open Source</b> [Contributing to AI Governance]
+
+<span style="color: #7ee787;">user@github:~$</span> check_arsenal --verbose
+</pre>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,react,nextjs,git,docker&theme=dark" />
+</div>
+
+<pre align="left" style="font-family: 'Courier New', Courier, monospace; color: #c9d1d9;">
+<span style="color: #7ee787;">user@github:~$</span> ping -c 1 social_media
+> 64 bytes from <a href="https://linkedin.com/in/yourid">LinkedIn</a>: icmp_seq=1 ttl=54 time=24.3 ms
+> 64 bytes from <a href="https://twitter.com/yourid">Twitter</a>: icmp_seq=1 ttl=54 time=12.1 ms
+</pre>
+
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3> 🚀 Full Stack Developer | Open Source Enthusiast | UI/UX Designer </h3>
-  <p>
-    <em>Building seamless web applications and exploring the frontiers of AI.</em>
-  </p>
-  
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,python,docker,aws,figma&perline=9" />
-</div>
-
----
-
-### 📊 The Data
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚡ Recent Activity
-
-* 🔭 I’m currently working on **[Project Name]**
-* 🌱 I’m currently learning **Rust and WebAssembly**
-* 👯 I’m looking to collaborate on **Open Source AI Tools**
-* 💬 Ask me about **React, System Design, and Pixel Art**
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <p><i>Thanks for visiting!</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" />
 </div>
